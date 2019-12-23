@@ -1,5 +1,5 @@
 # Fire-Detection-System
- ![Fire] ()
+ ![Fire] (https://github.com/mariaversin/Fire-Detection-System/blob/master/fuego.jpg)
 
 Proyecto final del Bootcamp Data Analytics Oct-2019
 
